@@ -7,7 +7,7 @@ languages
 
 |
 
-- `french <https://github.com/risebeyondio/beyond/blob/master/french/README.rst>`_
+- `french <https://github.com/risebeyondio/beyond/tree/master/languages/french/README.rst>`_
 
 
 |
