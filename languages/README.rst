@@ -1,13 +1,13 @@
-dummy
------
+languages
+---------
 
 |
 
-`home <https://github.com/risebeyondio>`_
+`home <https://github.com/risebeyondio/beyond>`_
 
 |
 
-- `dummy <https://github.com/risebeyondio/io/blob/master/containers-microservices/dummy.rst>`_
+- `french <https://github.com/risebeyondio/beyond/blob/master/french/README.rst>`_
 
 
 |
