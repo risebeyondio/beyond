@@ -18,4 +18,4 @@ references
 
 |
 
-- `references <https://github.com/risebeyondio/beyond/blob/master/references/README.rst>`_
+- `references <https://github.com/risebeyondio/rise/tree/master/references>`_
