@@ -7,7 +7,7 @@ beyond
 
 |
 
-- `dummy <https://github.com/risebeyondio/io/blob/master/containers-microservices/dummy.rst>`_
+- `languages <https://github.com/risebeyondio/beyond/blob/master/languages/README.rst>`_
 
 
 |
@@ -18,4 +18,4 @@ references
 
 |
 
-- `references <https://github.com/risebeyondio/io/blob/master/references/README.rst>`_
+- `references <https://github.com/risebeyondio/beyond/blob/master/references/README.rst>`_
