@@ -9,7 +9,6 @@ beyond
 
 - `languages <https://github.com/risebeyondio/beyond/blob/master/languages/README.rst>`_
 
-
 |
 
 ----------
