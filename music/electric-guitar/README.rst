@@ -7,17 +7,17 @@ content
   - string numbering and naming
   
   
-  --- 6 / E ---
+--- 6 / E ---
+ 
+--- 5 / A --- 
   
-  --- 5 / A --- 
+--- 4 / D --- 
   
-  --- 4 / D --- 
+--- 3 / G --- 
   
-  --- 3 / G --- 
+--- 2 / B ---
   
-  --- 2 / B ---
-  
-  --- 1 / e ---
+--- 1 / e ---
   
  
 ``E`` aster ``B`` unnies ``G`` et ``D`` izzy at ``E`` aster
