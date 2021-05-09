@@ -20,4 +20,4 @@ content
   --- 1 / e ---
   
  
-``E`` aster ``B``unnies ``G``et ``D``izzy at ``E``aster
+``E`` aster ``B`` unnies ``G`` et ``D`` izzy at ``E`` aster
